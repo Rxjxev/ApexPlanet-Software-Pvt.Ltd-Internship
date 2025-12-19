@@ -1,4 +1,4 @@
-# Apexplanet Internship – Cybersecurity
+# ApexPlanet Software Pvt.Ltd Internship – Cybersecurity
 
 ## Overview
 This repository contains my work for the **Apexplanet Cybersecurity Internship**.  
