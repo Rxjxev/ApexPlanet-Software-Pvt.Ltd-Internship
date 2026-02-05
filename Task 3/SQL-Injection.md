@@ -1,5 +1,3 @@
----
-
 # SQL Injection (SQLi)
 
 ## Introduction
