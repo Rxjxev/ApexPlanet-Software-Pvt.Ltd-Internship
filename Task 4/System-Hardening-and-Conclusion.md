@@ -100,6 +100,6 @@ Lists all active services, helping identify services that can be disabled.
 
 ---
 
-## 🧾 Conclusion
+##  Conclusion
 
 This task provided hands-on experience with exploitation techniques and defensive security practices. By applying system hardening measures such as patch management, firewall configuration, and service minimization, the importance of proactive defense and ethical penetration testing was reinforced.
