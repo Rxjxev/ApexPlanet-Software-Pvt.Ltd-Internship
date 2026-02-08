@@ -171,16 +171,6 @@ An automated vulnerability scan was conducted using **OWASP ZAP v2.16.1**, cover
 
 ---
 
-##  Deliverables
-
-- ✔ OWASP ZAP Vulnerability Scanning Report  
-- ✔ Incident Response Documentation  
-- ✔ Screenshots and Technical Evidence  
-- ✔ GitHub Repository with methodology and notes  
-- ✔ Final Presentation / Demonstration Video  
-
----
-
 ##  Key Learnings
 
 - Hands-on experience with real-world vulnerability scanning  
